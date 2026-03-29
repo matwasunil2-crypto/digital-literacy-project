@@ -1,10 +1,15 @@
 # Digital Literacy Project
 
 ## Student Details
+
 Name: Sunil Matwa
+
 registration no. :25BCE10466
+
 Course Code: CSE0001  
+
 Branch:B.Tech  
+
 University:VIT Bhopal  
 
 
