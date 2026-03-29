@@ -50,6 +50,9 @@ This project is created as part of the Digital Literacy course. It focuses on bu
 ##  Google Form Link
 (https://docs.google.com/forms/d/e/1FAIpQLSeUqGzcIRVz_K0xXzElnXsEDHZQTj3wpVZKiYQ9GWswVSHDjA/viewform?usp=dialog)
 
+## linkedin profile link 
+https://www.linkedin.com/in/sunil-matwa-1892b33bb/
+
 ## 📄 Report
 The complete project report is available in the **report/** folder.
 
