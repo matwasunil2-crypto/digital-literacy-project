@@ -59,7 +59,8 @@ https://www.kaggle.com/matwasunil9211
 ##hackerrank profile link 
 https://www.hackerrank.com/profile/matwasunil2
 
-##
+##github profile link
+https://github.com/matwasunil2-crypto
 
 ## 📄 Report
 The complete project report is available in the **report/** folder.
